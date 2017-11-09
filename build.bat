@@ -1,0 +1,1 @@
+mvn -P default -U clean install -Dmaven.test.skip=true -DartifactsDir=target

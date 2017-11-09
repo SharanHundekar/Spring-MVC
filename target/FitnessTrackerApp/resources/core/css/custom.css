@@ -1,0 +1,37 @@
+html, body, h1, h2, h3, h4, h5, h6, div {
+	padding: 0;
+	border: 0;
+	margin: 0;
+}
+
+body {
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic,
+		sans-serif;
+	margin: 0;
+}
+
+.appColor {
+	color: #37474F;
+}
+
+.headerLbl {
+	background-color: #37474F;
+	color: #ffffff;
+	height: 70px;
+	padding-top:13px;
+}
+
+.fabIcon {
+	position: fixed;
+	bottom: 24px;
+	right: 24px;
+	width: 100%;
+}
+
+.noTaskMsgCard {
+	padding-top: 50px;
+}
+.taskStatusLbl {
+	font-weight: bold;
+	color:red;
+}
